@@ -50,7 +50,7 @@ Get answers quickly with reference documents:
 
 .. include:: reference/map.rst.inc
 
-Contributing
+Contributin
 ------------
 
 Contribute to Symfony2:
